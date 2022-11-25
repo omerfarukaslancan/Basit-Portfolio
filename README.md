@@ -1,2 +1,2 @@
-# bas-c-portfolio
-Kişisel Basit &amp; Öğretici Portfolyo Arayüzümüz
+Gayet Hoş ve Sade Bir Portfolyo sitemiz Mevcut.
+İstediğiniz Şekilde Düzenleyebilirsiniz.
