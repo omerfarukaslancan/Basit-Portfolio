@@ -1,0 +1,8 @@
+<a href="https://github.com/TheOmers">
+    <div class="container">
+        <img src="img/gıthub.png" alt="Gıthub" class="image"/>
+        <div class="overlay">
+        <div class="text">Github Sayfama Buradan Ulaşabilirsin.</div>
+        </div>
+      </div>
+ </a>

@@ -1,0 +1,203 @@
+
+body {
+   background-color: rgb(12, 15, 16);
+}
+
+button{
+   color: #eee;
+   background-color:rgb(12, 15, 16);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 16px;
+}
+
+#button:hover{
+   height:50px;
+   width:50px;
+   background-color:blue;
+   }
+
+.solayatır {
+   text-align: left;
+   display: block;
+   height: max-content;
+   float: right;
+}
+.sagyatır {
+   text-align: right;
+   display: block;
+   height: max-content;
+   float: right;
+}
+
+#yazilar {
+   font-size: 27px;
+   text-decoration: none;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#başlık {
+   color: blanchedalmond;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#buton {
+   font-size: 20px;
+   background: #ff7700;
+   color: #fff;
+   border: 1px solid #eee;
+   border-radius: 20px;
+   box-shadow: 5px 5px 5px #eee;
+   text-shadow: none;
+}
+
+.yazı{
+   color: rgb(255, 255, 255);
+   font-size: 25px;
+   position: relative;
+   display: inline-block;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container {
+   position: relative;
+   display: inline-block;
+}
+
+.image {
+   display: block;
+   height: max-content;
+   float: right;
+}
+
+.image2 {
+   padding: 20px;
+   width: 200px;
+   display: block;
+   height: max-content;
+   float: left;
+}
+
+.image3 {
+   padding: 50px;
+   width: 90px;
+   display: block;
+   height: max-content;
+   float: right;
+}
+
+.image-table {
+   border: 0px solid rgba(0, 0, 0, 0);
+   border-collapse: separate;
+   border-spacing: 6px;
+   table-layout: fixed;
+   text-align: center;
+   width: 100%;
+}
+
+.image-table img {
+   border: 10px solid #fff;
+   box-sizing: border-box;
+   -webkit-box-shadow: 0 0 10px #999;
+   box-shadow: 0 0 10px #999;
+}
+
+.overlay {
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   background-color: #00000049;
+   overflow: hidden;
+   height: 0;
+   transition: 0.5s ease;
+}
+
+.container:hover .overlay {
+   height: 100%;
+}
+
+.border{
+   background-color: 55, 55, 55;
+   border-style:solid;
+   border-color: rgb(55, 55, 55);
+   height: 400px;
+   padding: 40px;
+   width: 90%;
+}
+
+.border2{
+   background-color: 55, 55, 55;
+   border-style:solid;
+   border-color: rgb(55, 55, 55);
+   height: 480px;
+   padding: 60px;
+   width: 90%;
+}
+
+.çerceve{
+   background-color: #1e1e1e;
+   border-style:double solid;
+   border-color: rgb(55, 55, 55);
+   height: 70px;
+   padding: 40px;
+   width: 30%;
+}
+
+.text2{
+   color:#fff;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 20px;
+   height: 30px;
+}
+
+.çerceve{
+   background-color: #1e1e1e;
+   border-style:double solid;
+   border-color: rgb(55, 55, 55);
+   height: 70px;
+   padding: 40px;
+   width: 30%;
+}
+
+.çerceve2{
+   background-color: #1e1e1e;
+   border-style:double solid;
+   border-color: rgb(55, 55, 55);
+   height: 70px;
+   padding: 40px;
+   width: 100%;
+}
+
+.python{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background: #002aff;
+left: 30px;
+color: #ffffff;
+}
+
+.text {
+   color: white;
+   font-size: 24px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   position: absolute;
+   top: 58%;
+   left: 30%;
+   -webkit-transform: translate(-50%, -50%);
+   -ms-transform: translate(-50%, -50%);
+   transform: translate(-50%, -50%);
+   text-align: center;
+}
+
+a:link, a:visited, a:active {
+   font-size: 120%;
+   font-family : fantasy;
+   color :rgb(255, 255, 255);
+   text-decoration : none;
+   }
+
+   a:hover {
+   font-family : 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color : #FF0000;
+   text-decoration : underline;
+   }
+
